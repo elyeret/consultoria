@@ -59,6 +59,17 @@ Luego se calculó el:
 <img width="406" height="104" alt="{E47CA05B-19B4-4790-8FF9-478332B94AA1}" src="https://github.com/user-attachments/assets/0f176782-f6e1-4f19-a0ef-e6ee463479a1" />
 
 
+c) Serie de tiempo
+
+Se generó un DataFrame con:
+
+Año (2016–2025)
+
+Promedio de valores extremos
+
+Este fue representado mediante un gráfico de línea.
+
+
 
 ## Equipo de trabajo
 
