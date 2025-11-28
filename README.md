@@ -1,8 +1,7 @@
-# consultoria
+# Consultoria
 
 ## Análisis Temporal del NDVI (2016–2025)
 Repositorio oficial del proyecto de consultoría con el profesor Jose Francisco Ruiz
-
 Este repositorio contiene el desarrollo completo de un trabajo de consultoría cuyo objetivo es analizar la evolución del NDVI (Índice de Vegetación de Diferencia Normalizada) durante el periodo 2016–2025, utilizando imágenes satelitales procesadas y técnicas avanzadas de teledetección y análisis temporal.
 
 Objetivo del proyecto
