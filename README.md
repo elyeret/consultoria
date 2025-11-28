@@ -6,7 +6,7 @@ Este repositorio contiene el desarrollo completo de un trabajo de consultoría c
 
 Objetivo del proyecto
 
-Evaluar los cambios en la cobertura vegetal a lo largo de diez años, identificando:
+Evaluar los cambios en la cobertura vegetal a lo largo de nueve años, identificando:
 
 - Tendencias de crecimiento o disminución de la vegetación
 - Cambios interanuales significativos
