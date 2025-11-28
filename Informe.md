@@ -1,73 +1,61 @@
-# Consultoria
+# Informe
 
-## Análisis Temporal del NDVI (2016–2025)
-Repositorio oficial del proyecto de consultoría con el profesor Jose Francisco Ruiz
-Este repositorio contiene el desarrollo completo de un trabajo de consultoría cuyo objetivo es analizar la evolución del NDVI (Índice de Vegetación de Diferencia Normalizada) durante el periodo 2016–2025, utilizando imágenes satelitales procesadas y técnicas avanzadas de teledetección y análisis temporal.
+Análisis Temporal del NDVI (2016–2025) para Evaluación de la Dinámica de la Vegetación**
 
-Objetivo del proyecto
+## 1. Introducción
 
-Evaluar los cambios en la cobertura vegetal a lo largo de nueve años, identificando:
+El Índice de Vegetación de Diferencia Normalizada (NDVI) es una de las métricas más utilizadas en teledetección para evaluar el vigor, densidad y salud de la vegetación. Este índice, basado en relaciones espectrales del infrarrojo cercano y el rojo, permite caracterizar cambios temporales en áreas agrícolas, ecosistemas naturales y zonas intervenidas.
 
-- Tendencias de crecimiento o disminución de la vegetación
-- Cambios interanuales significativos
-- Valores extremos (zonas con deterioro o fortalecimiento)
-- Patrones temporales basados en dos NDVI por cada año
+Este informe presenta un análisis de la variación del NDVI en el periodo 2016 a 2025, utilizando dos mapas NDVI por cada año (NDVI_1 y NDVI_2). El objetivo central es identificar tendencias, patrones de crecimiento o disminución, así como valores extremos que puedan señalar procesos ambientales relevantes como degradación, recuperación, cambios de cobertura o fluctuaciones estacionales.
 
-## Contenido del repositorio
+## 2. Objetivo General
 
-El repositorio incluye:
+Evaluar la dinámica temporal del NDVI entre 2016 y 2025 mediante la extracción de valores extremos y la construcción de una serie de tiempo basada en dos mediciones por año.
 
-1. Scripts de análisis
+## 3. Objetivos Específicos
 
-Códigos en Python para:
+- Organizar los mapas NDVI disponibles para cada año del periodo 2016–2025.
 
-- Cargar mapas NDVI por año
+- Extraer valores extremos (valores positivos altos y negativos significativos).
 
-- Extraer valores extremos
+- Calcular un valor promedio anual basado en los extremos de NDVI.
 
-- Construir series de tiempo
+- Construir una serie de tiempo que permita identificar tendencias.
 
-- Generar gráficos y consolidar dataframes
+- Generar visualizaciones y tablas que apoyen la interpretación del comportamiento de la vegetación.
 
-2. Datos
 
-- Archivos NDVI procesados (formato raster)
+## 4. Metodología
+4.1 Datos utilizados
 
-- Dataframes consolidados por año
+Para cada año se cuenta con:
 
-- Resultados de extracción de extremos
+- NDVI_YYYY_1: Primer mapa NDVI del año
 
-3. Visualizaciones
+- NDVI_YYYY_2: Segundo mapa NDVI del año
 
-- Gráficos de series de tiempo
+Los datos provienen de imágenes satelitales de sentinel L2A previamente procesadas y normalizadas.
 
-- Comparaciones interanuales
+4.2 Procesamiento
 
-- Mapas de NDVI y mapas de cambio (si se incluyen)
+Se aplicaron los siguientes pasos:
 
-4. Informe de consultoría
+a) Extracción de valores extremos
 
-- Análisis técnico
+Se definieron dos umbrales:
 
-- Hallazgos clave
+Azul (baja vegetación / áreas críticas): NDVI < -0.2
 
-- Recomendaciones ambientales
+Rojo (alta productividad o expansión): NDVI > 0.2
 
-- Conclusiones del estudio
+Ambos NDVI por año se procesaron individualmente.
 
-## Metodología general
+b) Consolidación anual
 
-El análisis se basa en:
+Los valores extremos de NDVI_1 y NDVI_2 se combinaron en un único conjunto por año.
 
-- Lectura y organización de mapas NDVI (2016–2025)
+Luego se calculó el:
 
-- Extracción de valores extremos (por debajo de –0.2 y por encima de +0.2)
-
-- Cálculo del promedio anual usando NDVI_1 y NDVI_2
-
-- Construcción de serie de tiempo para entender tendencias
-
-- Interpretación ambiental de los resultados
 
 ## Equipo de trabajo
 
