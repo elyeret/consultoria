@@ -1,7 +1,0 @@
-Análisis Temporal del NDVI (2016–2025) para Evaluación de la Dinámica de la Vegetación**
-
-1. Introducción
-
-El Índice de Vegetación de Diferencia Normalizada (NDVI) es una de las métricas más utilizadas en teledetección para evaluar el vigor, densidad y salud de la vegetación. Este índice, basado en relaciones espectrales del infrarrojo cercano y el rojo, permite caracterizar cambios temporales en áreas agrícolas, ecosistemas naturales y zonas intervenidas.
-
-Este informe presenta un análisis de la variación del NDVI en el periodo 2016 a 2025, utilizando dos mapas NDVI por cada año (NDVI_1 y NDVI_2). El objetivo central es identificar tendencias, patrones de crecimiento o disminución, así como valores extremos que puedan señalar procesos ambientales relevantes como degradación, recuperación, cambios de cobertura o fluctuaciones estacionales.
