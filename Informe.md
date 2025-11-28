@@ -169,3 +169,8 @@ Este análisis es útil para:
 - Identificación de áreas degradadas o en recuperación
 
 - Toma de decisiones en agricultura, minería y ordenamiento territorial
+
+
+## Conclusión General
+
+El análisis del NDVI para el periodo 2016–2025 evidencia dos fases claramente diferenciadas en la dinámica de la cobertura vegetal. Entre 2016 y 2021 se presenta una tendencia de disminución gradual del vigor vegetal, reflejada en valores promedio más bajos y mayor variabilidad, lo cual sugiere condiciones ambientales menos favorables y posibles presiones sobre el uso del suelo. Sin embargo, a partir de 2022 se observa una recuperación sostenida y significativa, alcanzando en 2023 el valor más alto de todo el periodo. Estos resultados indican que, pese a los episodios de estrés vegetal registrados en años intermedios, el sistema ha demostrado capacidad de regeneración y mejora en su productividad fotosintética. En conjunto, la serie temporal muestra que la vegetación del área de estudio ha experimentado ciclos de deterioro y recuperación, destacándose recientemente una fase positiva que refleja mejores condiciones ambientales o procesos de restauración natural o antrópica.
