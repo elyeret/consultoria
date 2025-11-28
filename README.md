@@ -56,7 +56,7 @@ Códigos en Python para:
 
 - Conclusiones del estudio
 
-🛰️ Metodología general
+## Metodología general
 
 El análisis se basa en:
 
