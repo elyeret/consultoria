@@ -141,7 +141,7 @@ una tendencia a la degradación, mayor presencia de eventos extremos negativos o
 
 - En 2025 hay un aumento leve (menos negativo), pero no recupera valores positivos.
 
-Esto se debe a que posible mente no haya muchos cambios durante los dos meses del año y cuando son muy estremos es por que si los hubo.
+Esto se debe a que posiblemente no haya muchos cambios durante los dos meses del año y cuando son muy estremos es por que si los hubo.
 
 
 
