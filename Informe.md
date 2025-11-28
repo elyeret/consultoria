@@ -73,6 +73,7 @@ Este fue representado mediante un gráfico de línea.
 
 <img width="236" height="211" alt="{E0BD4885-1C8B-47FF-80F9-8A0769C40664}" src="https://github.com/user-attachments/assets/1146f6d4-f6dc-4f16-be0f-9a3ea3a9e49a" />
 
+<img width="944" height="498" alt="{AB0CD4E7-EA4F-49BB-9627-647BADB7B35E}" src="https://github.com/user-attachments/assets/28215d17-4627-4563-8a8f-29b4d2f036fc" />
 
 
 El análisis del NDVI promedio anual revela un comportamiento dinámico de la cobertura vegetal entre 2016 y 2025, con fluctuaciones que reflejan variaciones ambientales, climáticas y posiblemente antrópicas.
@@ -105,6 +106,45 @@ A partir de 2022 ocurre un cambio importante:
 - 2025 recupera de nuevo un valor elevado (0.709).
 
 Este periodo evidencia una recuperación fuerte y sostenida en la cobertura vegetal, probablemente asociada a mejores condiciones ambientales o procesos de regeneración.
+
+
+Tambien se hizo un estudio con respecto a las diferencias y logramos observar que:
+
+<img width="233" height="222" alt="{DD70AF6E-F28D-4A0C-B905-D933B3F44E32}" src="https://github.com/user-attachments/assets/72aeed31-1321-4437-8db1-fcd94645a018" />
+
+<img width="912" height="483" alt="{B5FF14CD-766A-4CDE-A00E-20507FEA1414}" src="https://github.com/user-attachments/assets/d2db57fd-ecdb-4ba9-9060-37b6dde24551" />
+
+
+## 1. Años con valores positivos (2016, 2017, 2020, 2022)
+
+- Estos años presentan incrementos, indicando que predominan los extremos positivos.
+
+- El año 2016 y 2022 destacan con los valores más altos, sugiriendo condiciones ambientales más favorables o eventos que llevaron a aumentos en la variable analizada.
+
+## 2. Años con valores negativos (2018, 2019, 2021, 2023, 2024, 2025)
+
+- Representan períodos donde los extremos son negativos, indicando descensos en la variable.
+
+- 2021 es el año con el mayor descenso, lo que sugiere un evento crítico o una condición ambiental significativamente diferente.
+
+## 3. Tendencia general
+
+- Hay una variación marcada entre años, con alternancia entre incrementos y descensos.
+
+- Se observa un comportamiento más negativo a partir de 2018, lo que podría sugerir:
+
+una tendencia a la degradación, mayor presencia de eventos extremos negativos o una posible alteración sostenida del ecosistema/variable.
+
+## 4.Comparación 2024 vs 2025
+
+- 2024 y 2023 comparten el mismo valor, lo cual puede indicar estabilidad o repetición del patrón.
+
+- En 2025 hay un aumento leve (menos negativo), pero no recupera valores positivos.
+
+Esto se debe a que posible mente no haya muchos cambios durante los dos meses del año y cuando son muy estremos es por que si los hubo.
+
+
+
 
 
 ## Equipo de trabajo
